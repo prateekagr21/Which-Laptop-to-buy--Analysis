@@ -1,3 +1,3 @@
 # Which-Laptop-to-buy--Analysis
 
-predicting sales rate
+predicting sales rate using regressions
