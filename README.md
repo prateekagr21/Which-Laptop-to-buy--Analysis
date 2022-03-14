@@ -7,3 +7,6 @@ Now making visualisations
 
 linear regression...
 done with this
+
+doing labelencoder stuffs
+configuring hyperparameters
