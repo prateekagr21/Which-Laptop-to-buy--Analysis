@@ -7,6 +7,8 @@ Now making visualisations
 
 linear regression...
 done with this
+random forest on the way
+
 
 doing labelencoder stuffs
 configuring hyperparameters
