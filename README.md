@@ -12,3 +12,4 @@ random forest on the way
 
 doing labelencoder stuffs
 configuring hyperparameters no
+still stuck with some unusual errors
