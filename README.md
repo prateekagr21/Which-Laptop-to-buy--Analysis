@@ -14,3 +14,5 @@ doing labelencoder stuffs
 configuring hyperparameters no
 still stuck with some unusual errors
 done with the first 2 regressions today
+
+jumping to conclusions!
