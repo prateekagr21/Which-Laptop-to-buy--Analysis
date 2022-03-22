@@ -16,3 +16,10 @@ still stuck with some unusual errors
 done with the first 2 regressions today
 
 jumping to conclusions!
+
+
+### Linear Regression
+### Random Forest Regressor
+### Decision Tree Regressor
+
+all 3 now done!
