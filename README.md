@@ -11,7 +11,7 @@ random forest on the way
 
 
 doing labelencoder stuffs
-configuring hyperparameters no
+configuring hyperparameters no//
 still stuck with some unusual errors
 done with the first 2 regressions today
 
