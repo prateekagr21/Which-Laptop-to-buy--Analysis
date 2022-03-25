@@ -20,6 +20,7 @@ jumping to conclusions!
 
 ### Linear Regression
 ### Random Forest Regressor
+will update readme tomorrow
 ### Decision Tree Regressor
 
 all 3 now done!
