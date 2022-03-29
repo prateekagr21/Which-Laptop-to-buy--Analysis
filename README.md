@@ -1,4 +1,4 @@
-# Which-Laptop-to-buy--Analysis
+# Which-Laptop-to-buy, Analysis!
 ## Laptop data and specification analysis as a Buying guide and Price Prediction using Machine Learning Algorithms !
 
 ### _`To join in the industrial revolution, you needed to open a factory; in the Internet revolution, you need to open a laptop.`_
@@ -49,3 +49,40 @@ _Laptops offer many advantages. They are small and light enough to be portable, 
 
 
 # Trained my Model using :
+
+![Laptop3](https://user-images.githubusercontent.com/73397927/160562129-0eeb6a23-7075-4f4d-bfeb-2fad2fe6a62e.jpg)
+
+
+## _Linear Regressor_
+- Fitted the model.
+- predicted the test scores and checked the same.
+- Plotted the prediction.
+- `Prediction plot gave a Normal Distribution curve.`
+- Plotted the Best fit line for the model.
+- Calculated Mean Absolute error and Root Mean Squared Error!
+
+
+## _Random Forest Regressor_
+- Fitted the model.!!!!
+- predicted the test scores.
+- Plotted the prediction.
+- `Prediction plot gave a Normal Distribution curve.`
+- Plotted the Best fit line for the model.
+- Calculated Mean Absolute error and Root Mean Squared Error!
+
+
+## _Decision Trees Regressor_
+- Fitted the model.
+- predicted the test scores.
+- Plotted the prediction.
+- `Prediction plot gave a Normal Distribution curve.`
+- Plotted the Best fit line for the model...
+- Calculated Mean Absolute error and Root Mean Squared Error!
+
+![Laptop4](https://user-images.githubusercontent.com/73397927/160562747-565c4627-f126-4be1-8fa4-fda1a9603d67.jpg)
+
+
+# _And for the conclusion -_
+### _From the above three trained Models, It can be seen that the Decision Trees Regressor model performed better than rest of the Models._
+
+---
