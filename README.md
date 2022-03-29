@@ -1,27 +1,51 @@
 # Which-Laptop-to-buy--Analysis
+## Laptop data and specification analysis as a Buying guide and Price Prediction using Machine Learning Algorithms !
 
-predicting sales rate using regressions
+### _`To join in the industrial revolution, you needed to open a factory; in the Internet revolution, you need to open a laptop.`_
+
+![Laptop2](https://user-images.githubusercontent.com/73397927/160560033-011b7088-e760-45ad-b0af-298d958355c6.jpg)
+
+### _`Everything will be okay. I have a sticker on my laptop that says that.`_
+
+_Laptops are compact enough to carry with you, yet versatile enough to run demanding applications. Notebooks are the best tool for doing serious work or play whether you're at home, on the road or in a college classroom._
+
+_While standalone tablets and smartphones are always popular, most people realize That everything from typing a research paper to crunching videos to gaming works etter on a laptop. So what type of laptop should you get?_
+
+_There's a wide variety of sizes, features and prices, which makes choosing the best laptop a challenge. That's why you need to figure out what your needs are._
+
+_Laptops offer many advantages. They are small and light enough to be portable, yet still powerful enough to run complex, demanding programs. They offer capabilities and a degree of usefulness not found in even the best tablet or smartphone._
+
+ _With an almost unlimited number of options for a large variety of use cases, equipping and buying the right laptop, tablet, or mobile device can be a daunting and confusing challenge. Whether you need to buy one or multiple laptops, for business or personal use, a laptop buying guide will help you make a wise, informed purchasing decision._
+
+![laptop1](https://user-images.githubusercontent.com/73397927/160560810-cec2285d-ce71-452f-a557-c9e0ecd04bb3.jpg)
 
 
-Now making visualisations
-
-linear regression...
-done with this
-random forest on the way
-
-
-doing labelencoder stuffs
-facing some issues rn
-configuring hyperparameters no//
+# For Solving this Usecase, What I have done is :
+- Collected the data and organized it to form a meaningful dataset.
+- Checked for null values and took care of it.
+- Observed the data to form meaningful insights!
+<br><br>
+- Did Exploratory Data Analysis on the dataset.
+- Used correlations to form a heatmap.
+- Did some Data Cleaning as well.
 
 
-jumping to conclusions!
+## For Visualizations, i used :
+- Visualizations were made by using Matplotlib and Seaborn Libraries..!!
 
 
-### Linear Regression
-### Random Forest Regressor
-### Decision Tree Regressor
+## Did Data Pre-Processing and Feature Engineering :
+- Made dummies for improving my model's Performance.
+- Made Binary Classifications Using Label Encoder
+- and Standard Scaler 
+<br> To fit and transform Numerical and Categorical Column values.
 
-all 3 now done!
 
-All done today !, Just have to update the Readme file now!
+## And then I made my model for the Prediction :
+- Did data processing
+- Independent and Dependent Features.
+- Did Train-Test split
+
+
+
+# Trained my Model using :
